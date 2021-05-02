@@ -1,0 +1,11 @@
+name = "Voting"
+uuid = "bfd581fd-0d57-4672-9a13-e904c4a34eee"
+authors = ["José Bayoán Santiago Calderón <naoyabpr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Arrow = "69666777-d1a9-59fb-9406-91d4454c9d45"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
